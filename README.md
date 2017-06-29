@@ -1,14 +1,9 @@
 # MTG-Deckutils
-A command-line toolkit for handling deck files. Feature building is happening now, and a more user-friendly web interface will be developed later.
-
 
 
 
 ## Introduction
-
-
-
-
+A command-line toolkit for handling deck files. Feature building is happening now, and a more user-friendly web interface will be developed later.
 
 
 
@@ -27,13 +22,9 @@ A command-line toolkit for handling deck files. Feature building is happening no
 
 
 ### Optional
-If you are running BASH on your machine and are familiar with launchers, you can make life easier for you.
-
-1. In the root of this repository, there is the "deckutils" file, which contains a BASH launcher. Edit the file and replace "Your_Path_Here" with the full path to the "MTG-deckutils/bin" directory.
-2. Move the file to a directory which is in your $PATH.
+If you are running BASH on your machine and are familiar with launchers, you can make life easier for you. You can add the full path to the "MTG-deckutils/bin" directory to your $PATH. Alternatively, you can add an alias to your ~/.bashrc for the "MTG-deckutils/bin/deckutils.pl" file.
 
 ## Usage
-### Synopsis
 
 
 
