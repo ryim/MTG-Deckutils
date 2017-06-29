@@ -40,7 +40,9 @@ If you are running BASH on your machine and are familiar with launchers, you can
 ### Options
 toget       Create a shopping list of the cards that are in a deck which either
             are not in your library or are in use in other decks.
+            
             Usage:
+            
             deckutils toget -i deckname.cod -l library.cod [-v] [-d deck1.cod
             deck2.cod deck3.cod]
 
@@ -52,7 +54,9 @@ toget       Create a shopping list of the cards that are in a deck which either
 
 deckdiff    Creates a list of cards that are in both decks, and lists of cards
             that are unique to each deck.
+            
             Usage:
+            
             deckutils deckdiff --d1 deck1.cod --d2 deck2.cod [--sideboard]
 
     -s --sideboard  Include sideboard in the lists of cards in each deck so
