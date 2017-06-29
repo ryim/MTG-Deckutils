@@ -1,3 +1,0 @@
-#!/bin/bash -l
-cd Your_Path_Here
-./deckutils.pl $*
